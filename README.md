@@ -18,6 +18,6 @@ Tools      : Git, GitHub
 - Exploring advanced query optimization & database schemas
 ``` 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=ishnarasheed&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=ishnarasheed&show_icons=true&theme=tokyonight)" alt="Ishna's GitHub Stats" height="180px" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ishnarasheed&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=ishnarasheed&layout=compact&theme=tokyonight)" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishnarasheed&show_icons=true&theme=tokyonight" alt="Ishna's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishnarasheed&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
