@@ -55,6 +55,10 @@ Tools      : Git, GitHub
 </p>
 <a href="https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/README.md"><b>View Project →</b></a>
 
+### 🚀 Technical Projects
+* **[SQL Query Optimization](https://github.com/ishnarasheed/SQL-Query-Optimization)**: 
+  * Focuses on reducing query latency, implementing effective indexing, and performing join refactoring.
+    
 ### 📬 Connect with me
 * **Email:** ishnarasheed786@gmail.com
 * **LinkedIn:** [https://github.com/ishnarasheed]
