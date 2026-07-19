@@ -18,6 +18,8 @@ Tools      : Git, GitHub
 - Exploring advanced query optimization & database schemas
 ``` 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishnarasheed&show_icons=true&theme=tokyonight" alt="Ishna's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishnarasheed&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
