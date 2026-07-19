@@ -46,3 +46,10 @@ Tools      : Git, GitHub
     </td>
   </tr>
 </table>
+---
+
+### 🐍 My Contributions Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishnarasheed/ishnarasheed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" width="100%" />
+</p>
