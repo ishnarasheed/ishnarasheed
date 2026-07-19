@@ -1,16 +1,19 @@
-## Hi there 👋
+### 🖥️ ishnarasheed@github ~ $ neofetch
+```text
+Ishna Rasheed
+--------------------
+OS         : BSCS Student (5th Semester) @ UCP
+Role       : Aspiring Data Engineer
+Focus      : Relational Databases & SQL Query Optimization
+Edu        : Computer Science (CGPA: 3.3 | Last SGPA: 3.87)
 
-<!--
-**ishnarasheed/ishnarasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ Stack ]
+Data       : SQL, Relational Database Management (RDBMS), Python Data Manipulation
+Core CS    : Data Structures & Algorithms, Database Management Systems
+Tools      : Git, GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ Highlights ]
+- Focuses on backend data structuring & ETL workflows
+- Actively working on English fluency & communication skills
+- Exploring advanced query optimization & database schemas
+``` 
