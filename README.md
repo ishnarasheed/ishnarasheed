@@ -58,7 +58,6 @@ Tools      : Git, GitHub
 <p align="center">
   <img src="https://raw.githubusercontent.com/ishnarasheed/ishnarasheed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" width="100%" />
 </p>
-<a href="https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/README.md"><b>View Project →</b></a>
 ---
 
 ### 🚀 Technical Projects
