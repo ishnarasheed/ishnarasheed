@@ -47,7 +47,7 @@ Tools      : Git, GitHub
     <td width="50%" valign="top">
       <h4>⚡ Python ETL Data Workflow</h4>
       <p>A complete Extract, Transform, Load workflow manipulating raw datasets, cleaning anomalies, and loading structured data into database schemas.</p>
-      <a href="https://github.com/ishnarasheed/SQL-Query-Optimization](https://github.com/ishnarasheed/Python-ETL-Pipeline"><b>View Project →</b></a>
+      <a href="https://github.com/ishnarasheed/Python-ETL-Pipeline"><b>View Project →</b></a>
     </td>
   </tr>
 </table>
