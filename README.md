@@ -25,9 +25,18 @@ Tools      : Git, GitHub
 </p>
 ---
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ishnarasheed&theme=tokyonight&hide_border=false" alt="Ishna's GitHub Streak" width="100%" />
-</p>
+<div align="center">
+
+### 🛠 My Tech Stack
+<br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+</div>
 ---
 
 ### 🛠️ Featured Data Engineering Projects
