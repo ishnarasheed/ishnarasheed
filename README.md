@@ -25,15 +25,18 @@ Tools      : Git, GitHub
 </p>
 ---
 <div align="center">
-### 🛠 My Tech Stack
-  
-<div align="center">
 
 ### 🛠 My Tech Stack
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Database-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 </div>
+
+---
+
+### 🛠 Featured Data Engineering Projects
+
+<!-- Yahan apne projects ka section rakhein -->
 ---
 
 ### 🛠️ Featured Data Engineering Projects
