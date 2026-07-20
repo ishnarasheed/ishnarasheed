@@ -26,7 +26,7 @@ Tools      : Git, GitHub
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishnarasheed&theme=tokyonight&hide_border=false" alt="Ishna's GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com?user=ishnarasheed&theme=tokyonight&hide_border=false" alt="Ishna's GitHub Streak" width="100%" />
 </p>
 ---
 
