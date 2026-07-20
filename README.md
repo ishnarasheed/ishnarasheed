@@ -16,7 +16,8 @@ Tools      : Git, GitHub
 - Focuses on backend data structuring & ETL workflows
 - Actively working on English fluency & communication skills
 - Exploring advanced query optimization & database schemas
-``` 
+```
+
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -71,7 +72,3 @@ Tools      : Git, GitHub
 ### 📬 Connect with me
 * **Email:** ishnarasheed786@gmail.com
 * **LinkedIn:** [https://github.com/ishnarasheed]
-
-
-ye raha mera sara 
-ab muje thek kr ke sara return krdy 
