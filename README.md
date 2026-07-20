@@ -35,11 +35,6 @@ Tools      : Git, GitHub
 
 ---
 
-### 🛠 Featured Data Engineering Projects
-
-<!-- Yahan apne projects ka section rakhein -->
----
-
 ### 🛠️ Featured Data Engineering Projects
 
 <table width="100%">
