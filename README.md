@@ -61,9 +61,12 @@ Tools      : Git, GitHub
 <a href="https://github.com/ishnarasheed/SQL-Query-Optimization/blob/main/README.md"><b>View Project →</b></a>
 
 ### 🚀 Technical Projects
+
 * **[SQL Query Optimization](https://github.com/ishnarasheed/SQL-Query-Optimization)**:
-  
-  * Focuses on reducing query latency, implementing effective indexing, and performing join refactoring.
+    * Focuses on reducing query latency, implementing effective indexing, and performing join refactoring.
+
+* **[Python ETL Pipeline](https://github.com/ishnarasheed/Python-ETL-Pipeline)**:
+    * Focuses on building an efficient data pipeline that handles raw datasets, cleans anomalies, and prepares data for analytical consumption.
     
 ### 📬 Connect with me
 * **Email:** ishnarasheed786@gmail.com
