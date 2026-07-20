@@ -3,18 +3,19 @@
 ### 🖥️ ishnarasheed@github ~ $ neofetch
 
 **Ishna Rasheed**
---------------------
-**OS**         : BSCS Student (5th Semester) @ UCP
-**Role**       : Aspiring Data Engineer
-**Focus**      : Relational Databases & SQL Query Optimization
-**Edu**        : Computer Science (CGPA: 3.3 | SGPA: 3.87)
+---
+**OS** : BSCS Student (5th Semester) @ UCP | **Role** : Aspiring Data Engineer
+**Focus** : Relational Databases & SQL Query Optimization
+**Edu** : Computer Science (CGPA: 3.3 | SGPA: 3.87)
 
-[ **Stack** ]
-**Data**       : SQL, RDBMS, Python (ETL/Data Manipulation)
-**Core CS**    : Data Structures & Algorithms, DBMS
-**Tools**      : Git, GitHub
+<br>
 
-[ **Highlights** ]
+**[ Stack ]**
+SQL, RDBMS, Python (ETL/Data Manipulation), Data Structures & Algorithms, DBMS, Git, GitHub
+
+<br>
+
+**[ Highlights ]**
 - Focuses on backend data structuring & ETL workflows
 - Actively working on English fluency & communication skills
 - Exploring advanced query optimization & database schemas
