@@ -1,26 +1,22 @@
-<div align="center">
-
 ### 🖥️ ishnarasheed@github ~ $ neofetch
 
 **Ishna Rasheed**
 ---
-**OS** : BSCS Student (5th Semester) @ UCP | **Role** : Aspiring Data Engineer
-**Focus** : Relational Databases & SQL Query Optimization
-**Edu** : Computer Science (CGPA: 3.3 | SGPA: 3.87)
-
-<br>
+**OS**: BSCS Student (5th Semester) @ UCP | **Role**: Aspiring Data Engineer
+**Focus**: Relational Databases & SQL Query Optimization
+**Edu**: Computer Science (CGPA: 3.3 | SGPA: 3.87)
 
 **[ Stack ]**
 SQL, RDBMS, Python (ETL/Data Manipulation), Data Structures & Algorithms, DBMS, Git, GitHub
 
-<br>
-
 **[ Highlights ]**
-- Focuses on backend data structuring & ETL workflows
-- Actively working on English fluency & communication skills
-- Exploring advanced query optimization & database schemas
+* Focuses on backend data structuring & ETL workflows
+* Actively working on English fluency & communication skills
+* Exploring advanced query optimization & database schemas
 
-<br>
+---
+
+<div align="center">
 
 ### 🛠 My Tech Stack
 
@@ -42,7 +38,6 @@ SQL, RDBMS, Python (ETL/Data Manipulation), Data Structures & Algorithms, DBMS, 
     <td width="50%" valign="top">
       <h4>⚡ Python ETL Data Workflow</h4>
       <p>A complete Extract, Transform, Load workflow manipulating raw datasets, cleaning anomalies, and loading structured data into database schemas.</p>
-      <a href="#"><b>View Project →</b></a>
     </td>
   </tr>
 </table>
