@@ -38,18 +38,18 @@ Tools      : Git, GitHub
 ### 🛠️ Featured Data Engineering Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 SQL Query Optimization Pipeline</h4>
-      <p>Optimizing complex relational database queries, improving execution time using proper indexing and execution plan analysis.</p>
-      <a href="#"><b>View Project →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Python ETL Data Workflow</h4>
-      <p>A complete Extract, Transform, Load workflow manipulating raw datasets, cleaning anomalies, and loading structured data into database schemas.</p>
-      <a href="#"><b>View Project →</b></a>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 SQL Query Optimization Pipeline</h4>
+      <p>Optimizing complex relational database queries, improving execution time using proper indexing and execution plan analysis.</p>
+      <a href="https://github.com/ishnarasheed/SQL-Query-Optimization"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Python ETL Data Workflow</h4>
+      <p>A complete Extract, Transform, Load workflow manipulating raw datasets, cleaning anomalies, and loading structured data into database schemas.</p>
+      <a href="https://github.com/ishnarasheed/SQL-Query-Optimization"><b>View Project →</b></a>
+    </td>
+  </tr>
 </table>
 ---
 
